@@ -35,8 +35,8 @@ The technologies used in this project are:
 
 
 ## Images available on Docker Hub
-https://hub.docker.com/repositories/pbishnoi595
-
+[https://hub.docker.com/repositories/pbishnoi595
+](https://hub.docker.com/u/pbishnoi595)
 
 
 ## How to run the frontend application
